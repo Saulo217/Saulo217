@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saulo217" >
+<img src="https://github-readme-stats.vercel.app/api?theme=vue-dark&&username=Saulo217">
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
