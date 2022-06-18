@@ -1,8 +1,8 @@
 ### Olá! eu sou Saulo
 
-<div style="display:flex; flex-direction: row;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?theme=vue-dark&&username=Saulo217">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?theme=vue-dark&&username=Saulo217&&layout=compact">
+<div style="display:flex;">
+  <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?theme=vue-dark&&username=Saulo217">
+  <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api/top-langs?theme=vue-dark&&username=Saulo217&&layout=compact">
 </div>
   <!--
 - 🔭 I’m currently working on ...
