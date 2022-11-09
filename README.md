@@ -6,5 +6,5 @@
 </div>
 <ul style='display:flex; flex-direction: column;'>
   <li> 🌱 I’m currently learning React and Bootstrap </li>
-  <li> ⚡ Fun fact: I'm learning C in my spare time </li>
+  <li> ⚡ Fun fact: I'm learning C and game development with Godot in my spare time </li>
 </ul>
